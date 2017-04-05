@@ -1,0 +1,58 @@
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 1
+Enter pet name to be added: Rocky
+
+Cannot search an empty tree.
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 1
+Enter pet name to be added: Otis
+
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 4
+Here is a list of the 2 pet(s) in the database: Otis  Rocky
+
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 2
+Enter pet name to be removed: Otis
+
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 4
+Here is a list of the 1 pet(s) in the database: Rocky
+
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 3
+Enter pet name to search for: Otis
+Otis is not in our database!
+
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 5
+Goodbye!
+
